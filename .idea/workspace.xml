@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b132e95c-3252-4a55-9f93-b3adec33427b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/walsoft/rich_exception/RichRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/Exception4j.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/ExceptionCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/AccessDeniedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/AuthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidLoginDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidTokenException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidUsernameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/LoginException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/RoleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDateFormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDateRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/general/InvalidDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/general/InvalidValueException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/json/InvalidJsonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/math/MathException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/report/InvalidReportDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/report/ReportException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/SplitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/StringException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/TextException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/waltsoft/exceptions4j/Exception4jTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BKDT976JUWmCfdGoqfv2pFIKjx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b132e95c-3252-4a55-9f93-b3adec33427b" name="Changes" comment="" />
+      <created>1774228875430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774228875430</updated>
+      <workItem from="1774228880162" duration="340000" />
+      <workItem from="1774275022996" duration="604000" />
+      <workItem from="1774314352820" duration="1462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
