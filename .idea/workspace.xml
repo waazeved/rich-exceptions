@@ -5,45 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b132e95c-3252-4a55-9f93-b3adec33427b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/walsoft/rich_exception/RichRuntimeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/Exception4j.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/ExceptionCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/AccessDeniedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/AuthException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidLoginDataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidPasswordException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidTokenException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/InvalidUsernameException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/LoginException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/auth/RoleException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDateFormatException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/date/InvalidDateRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/general/InvalidDataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/general/InvalidValueException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/json/InvalidJsonException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/math/MathException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/report/InvalidReportDataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/report/ReportException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/SplitException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/StringException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/waltsoft/exceptions4j/text/TextException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/waltsoft/exceptions4j/Exception4jTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/com/walsoft/rich_exception/category/database/RichDatabaseExceptionCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/com/walsoft/rich_exception/category/database/RichDatabaseExceptionCodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -70,6 +34,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3BKDT976JUWmCfdGoqfv2pFIKjx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +48,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/init-project",
     "kotlin-language-version-configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -103,7 +70,7 @@
       <updated>1774228875430</updated>
       <workItem from="1774228880162" duration="340000" />
       <workItem from="1774275022996" duration="604000" />
-      <workItem from="1774314352820" duration="1462000" />
+      <workItem from="1774314352820" duration="2737000" />
     </task>
     <servers />
   </component>
